@@ -18,6 +18,6 @@
 ## 🚀 Установка
 
 ```bash
-git clone https://github.com/your-username/txt-to-pgcsv.git
+git clone https://github.com/SSHINRATENSSEI/Automation-of-CSV-normalization.git
 cd txt-to-pgcsv
 pip install tqdm
